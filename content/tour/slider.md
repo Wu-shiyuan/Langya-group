@@ -39,7 +39,7 @@ content:
         color: '#555'
         brightness: 0.7
         media: 狼牙背景.png
-   - title: 陈组
+    - title: 陈组
       content: '牛啊'
       align: center
       background:
