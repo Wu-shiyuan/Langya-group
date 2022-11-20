@@ -39,6 +39,14 @@ content:
         color: '#555'
         brightness: 0.7
         media: 狼牙背景.png
+   - title: 陈组
+      content: '牛啊'
+      align: center
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: 修理工程的陈劲元.jpg
     - title: World-Class Semiconductor Lab
       content: 'Just opened last month!'
       align: right
