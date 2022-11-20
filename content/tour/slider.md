@@ -31,6 +31,14 @@ content:
         color: '#555'
         brightness: 0.7
         media: contact.jpg
+    - title: 狼牙
+      content: '欢迎'
+      align: center
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: 狼牙背景.png
     - title: World-Class Semiconductor Lab
       content: 'Just opened last month!'
       align: right
